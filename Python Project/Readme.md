@@ -1,7 +1,7 @@
 # 1.) Project Description:-
 # Project Title:- Multiple Type of Vehicle Counting From Video
 ## Description:-
-Currently We all know Traffic and Road Maintaince is one of the biggest issue across all over the World. So overcome that Problem We have tried to implement this Project. In this Project, I had used Python as my base lanquage and I had used Pytorch and Pyqt5 kind of Apis and other useful Apis to complete this project with best of my Effort.
+Currently We all know Traffic and Road Maintaince is one of the biggest issue across all over the World. So overcome that Problem We have tried to implement this Project. In this Project, we had used Python as my base lanquage and we had used Pytorch and Pyqt5 kind of Apis and other useful Apis to complete this project with best of my Effort.
 Also We have taken the help of the yolov3 and sort algorithm for object detection to implement this project.
 # APIS Information (Which New API We have Used?):-
 - Opencv (For Reading a Video and to Manipulate it)
@@ -37,6 +37,6 @@ Like the Format is:- [videoname, id, objectname] for each Vehicle. For Example:-
 - Detection pf NumberPlate of Objects
 - Face Detection of Person Who is Inside the Objects
 # Contact Info:-
-- For any Queries you can mail us on my Email-id:-"harshrajsinhsolanki22@gmail.com" or 
+- For any Queries you can mail us on Email-ids:-"18bce234@nirmauni.ac.in" or "18bce240@nirmauni.ac.in" 
 - If You Like My project Hit a Star Button.
 
