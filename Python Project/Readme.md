@@ -36,7 +36,5 @@ Like the Format is:- [videoname, id, objectname] for each Vehicle. For Example:-
 # 5.) Challenges:- (Means We can Extend this Project to Higher Scale Based On Real World need)
 - Detection pf NumberPlate of Objects
 - Face Detection of Person Who is Inside the Objects
-# Contact Info:-
-- For any Queries you can mail us on my Email-id:-"harshrajsinhsolanki22@gmail.com" or 
 - If You Like My project Hit a Star Button.
 
